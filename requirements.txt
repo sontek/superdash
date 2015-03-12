@@ -1,0 +1,3 @@
+mako
+pyramid
+pyramid_debugtoolbar
